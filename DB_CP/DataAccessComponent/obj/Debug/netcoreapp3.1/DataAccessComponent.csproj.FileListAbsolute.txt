@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\obj\Debug\netcoreapp3.1\DataAccessComponent.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\obj\Debug\netcoreapp3.1\DataAccessComponent.AssemblyInfo.cs
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\obj\Debug\netcoreapp3.1\DataAccessComponent.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\bin\Debug\netcoreapp3.1\DataAccessComponent.deps.json
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\bin\Debug\netcoreapp3.1\DataAccessComponent.dll
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\bin\Debug\netcoreapp3.1\DataAccessComponent.pdb
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\obj\Debug\netcoreapp3.1\DataAccessComponent.dll
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\obj\Debug\netcoreapp3.1\DataAccessComponent.pdb
+C:\Users\User\Source\Repos\DB_CP\DataAccessComponent\obj\Debug\netcoreapp3.1\DataAccessComponent.csprojAssemblyReference.cache
